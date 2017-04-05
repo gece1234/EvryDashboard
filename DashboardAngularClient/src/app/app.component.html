@@ -1,3 +1,7 @@
-<h1>
-  {{title}}
-</h1>
+﻿<h1>{{title}}</h1>
+<h2>My ElementInfos</h2>
+<ul class="heroes">
+  <li *ngFor="let elementInfo of elementInfos">
+    <span class="badge">{{elementInfo.description}} {{elementInfo.value}}</span>
+  </li>
+</ul>
