@@ -16,6 +16,7 @@ namespace DevWorkShGitTest
         static void Main()
         {
             //Kalle Anka
+            //Change In local Fork
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
