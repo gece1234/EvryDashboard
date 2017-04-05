@@ -1,0 +1,8 @@
+C:\Users\cjohans4\Source\Repos\EvryDashboard\DevWorkShGitTest\DevWorkShGitTest\bin\Debug\DevWorkShGitTest.exe.config
+C:\Users\cjohans4\Source\Repos\EvryDashboard\DevWorkShGitTest\DevWorkShGitTest\bin\Debug\DevWorkShGitTest.exe
+C:\Users\cjohans4\Source\Repos\EvryDashboard\DevWorkShGitTest\DevWorkShGitTest\bin\Debug\DevWorkShGitTest.pdb
+C:\Users\cjohans4\Source\Repos\EvryDashboard\DevWorkShGitTest\DevWorkShGitTest\obj\Debug\DevWorkShGitTest.csprojResolveAssemblyReference.cache
+C:\Users\cjohans4\Source\Repos\EvryDashboard\DevWorkShGitTest\DevWorkShGitTest\obj\Debug\DevWorkShGitTest.Properties.Resources.resources
+C:\Users\cjohans4\Source\Repos\EvryDashboard\DevWorkShGitTest\DevWorkShGitTest\obj\Debug\DevWorkShGitTest.csproj.GenerateResource.Cache
+C:\Users\cjohans4\Source\Repos\EvryDashboard\DevWorkShGitTest\DevWorkShGitTest\obj\Debug\DevWorkShGitTest.exe
+C:\Users\cjohans4\Source\Repos\EvryDashboard\DevWorkShGitTest\DevWorkShGitTest\obj\Debug\DevWorkShGitTest.pdb
