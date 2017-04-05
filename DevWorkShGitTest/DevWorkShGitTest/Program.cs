@@ -10,6 +10,7 @@ namespace DevWorkShGitTest
     {
         /// <summary>
         /// The main entry point for the application.
+        /// Hej
         /// </summary>
         [STAThread]
         static void Main()
